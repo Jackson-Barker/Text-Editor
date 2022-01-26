@@ -5,11 +5,12 @@
   "main": "server.js",
   "scripts": {
     "start:dev": "",
-    "start": "",
     "server": "",
-    "build": "",
     "install": "",
-    "client": ""
+    "client": "npm start",
+    "dev": "webpack-dev-server",
+    "build": "webpack --mode production",
+    "start": "webpack --watch"
   },
   "keywords": [],
   "author": "",
