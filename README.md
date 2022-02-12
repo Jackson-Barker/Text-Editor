@@ -12,6 +12,7 @@ SO THAT I can reliably retrieve them for later use
 
 
 ## Table of Contents
+
 - [Installation](#installation)
 - [Usage](#usage)
 - [Credits](#credits)
@@ -66,6 +67,10 @@ MIT
 ## Email
 
 <a href="mailto:barkerwjackson@gmail.com">Email</a>
+
+## Link 
+
+<a href="https://text-editor-123.herokuapp.com/">Text Editor</a>
 
 ## Screenshot
 
